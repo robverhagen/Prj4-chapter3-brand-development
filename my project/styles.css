@@ -1,0 +1,22 @@
+p {color: #0A14EC;}
+
+h1 {font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+.p2 {color: #F30004;}
+
+#last-p {color: #12DB47;}
+
+header {
+    color: #D28B8D;
+	width: 15000px;
+height: 80px;
+background-color: #ABEDFF}
+   
+header {border-style: dotted;}
+
+.w3-container{
+        width: 130px;
+        height: 60px;
+	display: table;}
+.w3-container{border-style: dotted;}
+
+
